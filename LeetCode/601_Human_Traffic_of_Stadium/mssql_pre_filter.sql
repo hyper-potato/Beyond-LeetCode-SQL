@@ -1,4 +1,5 @@
 -- MySQL: pre-filtering
+use LeetCode;
 SELECT DISTINCT 
   s1.* 
 FROM

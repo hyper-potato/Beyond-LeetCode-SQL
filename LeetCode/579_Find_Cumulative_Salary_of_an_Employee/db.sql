@@ -1,5 +1,5 @@
-DROP SCHEMA IF EXISTS LeetCode;
-CREATE SCHEMA LeetCode;
+# DROP SCHEMA IF EXISTS LeetCode;
+# CREATE SCHEMA LeetCode;
 USE LeetCode;
 
 Create table If Not Exists Employee (Id int, Month int, Salary int);

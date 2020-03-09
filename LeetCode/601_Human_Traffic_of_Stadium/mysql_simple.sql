@@ -1,4 +1,5 @@
 -- MySQL solution
+use LeetCode;
 SELECT DISTINCT 
   s1.* 
 FROM

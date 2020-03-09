@@ -1,4 +1,5 @@
 -- MS SQL: window
+USE LeetCode;
 WITH long_table AS (
 SELECT
   *

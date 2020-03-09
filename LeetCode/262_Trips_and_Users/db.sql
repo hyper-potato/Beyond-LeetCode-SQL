@@ -1,5 +1,5 @@
-DROP SCHEMA IF EXISTS LeetCode;
-CREATE SCHEMA LeetCode;
+# DROP SCHEMA IF EXISTS LeetCode;
+# CREATE SCHEMA LeetCode;
 USE LeetCode;
 
 Create table If Not Exists Trips (Id int, Client_Id int, Driver_Id int, City_Id int, Status ENUM('completed', 'cancelled_by_driver', 'cancelled_by_client'), Request_at varchar(50));
